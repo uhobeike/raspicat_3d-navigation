@@ -1,0 +1,4 @@
+[submodule "mcl_3dl"]
+	path = mcl_3dl
+	url = https://github.com/uhobeike/mcl_3dl.git
+	branch = develop
